@@ -1,3 +1,3 @@
-## Data science and machine learning
+## Data Science and machine learning
 
 
