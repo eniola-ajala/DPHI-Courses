@@ -1,4 +1,4 @@
 ## Data Science and Machine Learning
-Notebook for begin
+Notebook for beginners
 
 
