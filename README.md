@@ -1,4 +1,4 @@
 ## Data Science and Machine Learning
-Notebook for beg
+Notebook for begin
 
 
