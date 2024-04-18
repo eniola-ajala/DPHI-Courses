@@ -1,5 +1,5 @@
 ## Data Science and Machine Learning
-Notebook for beginne
+Notebook for begi
 
 
 
